@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	>
+
+<channel>
+	<title>Adobe Flex User Group München</title>
+	<atom:link href="http://www.fugmuc.de/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.fugmuc.de</link>
+	<description>Offizielle Adobe Flex User Group</description>
+	<pubDate>Fri, 01 Jul 2011 12:45:44 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.7</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Einführung in die Mobile Entwicklung mit Flex 4.5</title>
+		<link>http://www.fugmuc.de/einfuhrung-in-die-mobile-entwicklung-mit-flex-45_775.html</link>
+		<comments>http://www.fugmuc.de/einfuhrung-in-die-mobile-entwicklung-mit-flex-45_775.html#comments</comments>
+		<pubDate>Fri, 01 Jul 2011 09:37:02 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Flex]]></category>
+
+		<category><![CDATA[Flex UG München]]></category>
+
+		<category><![CDATA[Flex UG Treffen]]></category>
+
+		<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=775</guid>
+		<description><![CDATA[Mit dem kürzlich veröffentlichen Update Flex 4.5.1 hat man nun als Flex-Entwickler die Möglichkeit Anwendungen für 5 verschiedene Plattformen zu entwickeln. Frank Milde stellt in diesem Vortrag den Workflow mit Flash Builder 4.5 vor. Dabei werden die Konzepte und Besonderheiten von Flex Mobile Applications vorgestellt und erklärt.Im Anschluss an die theoretischen Einführung wird in einer [...]]]></description>
+			<content:encoded><![CDATA[<p>Mit dem kürzlich veröffentlichen Update Flex 4.5.1 hat man nun als Flex-Entwickler die Möglichkeit Anwendungen für 5 verschiedene Plattformen zu entwickeln. Frank Milde stellt in diesem Vortrag den Workflow mit Flash Builder 4.5 vor. Dabei werden die Konzepte und Besonderheiten von Flex Mobile Applications vorgestellt und erklärt.Im Anschluss an die theoretischen Einführung wird in einer Livecoding Session eine simple Mobile Anwendung erstellt und auf einem Android Gerät getestet und deployed.</p>
+<p>BIO: Frank Milde beschäftigt sich seit über 10 Jahren mit der Flashplattform. Zurzeit ist er bei der KORION Simulation Software Training GmbH als Softwarearchitekt und als Consultant in diversen Werbeagenturen im Raum Stuttgart tätig</p>
+<p><strong>Veranstaltungstermin: </strong><br />
+Dienstag, den 05.07.2011 um 19:00 Uhr (Einlass 18:30 Uhr)</p>
+<p><strong>Location:</strong><br />
+reppa.net GmbH<br />
+Widenmayerstr. 46a<br />
+80538 München</p>
+<p><strong>Die Teilnahme ist kostenlos und auf 25 Teilnehmer begrenzt!</strong></p>
+<p>Deswegen bitte in der XING Gruppe <a href="https://www.xing.com/net/flexugmuc/">Adobe Flex User Group München anmelden</a> und den Termin bestätigen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/einfuhrung-in-die-mobile-entwicklung-mit-flex-45_775.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Medienkomposition mit OSMF</title>
+		<link>http://www.fugmuc.de/medienkomposition-mit-osmf_770.html</link>
+		<comments>http://www.fugmuc.de/medienkomposition-mit-osmf_770.html#comments</comments>
+		<pubDate>Fri, 04 Mar 2011 15:01:21 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Flex]]></category>
+
+		<category><![CDATA[Flex UG München]]></category>
+
+		<category><![CDATA[Flash]]></category>
+
+		<category><![CDATA[OSMF]]></category>
+
+		<category><![CDATA[Stage Video]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=770</guid>
+		<description><![CDATA[Mit dem Open Source Media Framework (OSMF) stellt Adobe ein mächtiges Framework zur Programmierung von Medien bereit. Es eignet sich hervorragend von der einfachen Medienwiedergabe bis hin zur komplexen Medienkomposition. In diesem Vortrag lernst Du die Funktionsweise und das Konzept von OSMF kennen. Im Praxisteil entwickeln wir dann einen einfachen Videoplayer, der Stück für Stück [...]]]></description>
+			<content:encoded><![CDATA[<p>Mit dem Open Source Media Framework (OSMF) stellt Adobe ein mächtiges Framework zur Programmierung von Medien bereit. Es eignet sich hervorragend von der einfachen Medienwiedergabe bis hin zur komplexen Medienkomposition. In diesem Vortrag lernst Du die Funktionsweise und das Konzept von OSMF kennen. Im Praxisteil entwickeln wir dann einen einfachen Videoplayer, der Stück für Stück um weitere Funktionalitäten zu einer komplexen Medienkomposition erweitert wird. Du erfährst u.a., wie man Streaming Media einsetzt, und was man tun muss, um Stage Video (ab Flash-Player 10.2) zu verwenden.<br />
+Die Session eignet sich sowohl für Ein-/ Umsteiger (Grundwissen in AS3 und Flex) als auch fortgeschrittene Programmierer, die das OSMF kennen lernen wollen.</p>
+<p>Stefan Dosch ist mit <a href="http://liquidlounge.de">Liquidlounge</a> seit über 10 Jahren als selbstständiger Multimediadesigner tätig. Flash begleitete ihn seit Version 3 vom reinen Animationswerkzeug bis hin zum heutigen Entwicklungsframework zum Erstellen von Rich Internet Applications. </p>
+<p><strong>Veranstaltungstermin: </strong><br />
+Dienstag, den 29.03.11 um 19:00 Uhr (Einlass 18:30 Uhr)</p>
+<p><strong>Location:</strong><br />
+reppa.net GmbH<br />
+Widenmayerstr. 46a<br />
+80538 München</p>
+<p><strong>Die Teilnahme ist kostenlos und auf 25 Teilnehmer begrenzt!</strong></p>
+<p>Deswegen bitte in der XING Gruppe <a href="https://www.xing.com/events/medienkomposition-osmf-722857">Adobe Flex User Group München anmelden</a> und den Termin bestätigen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/medienkomposition-mit-osmf_770.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Frohe Weihnachten und einen guten Rutsch!</title>
+		<link>http://www.fugmuc.de/frohe-weihnachten-und-einen-guten-rutsch_766.html</link>
+		<comments>http://www.fugmuc.de/frohe-weihnachten-und-einen-guten-rutsch_766.html#comments</comments>
+		<pubDate>Mon, 20 Dec 2010 15:43:12 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=766</guid>
+		<description><![CDATA[Wir wünschen frohe Weihnachten und einen guten Rutsch in das Jahr 2011. 
+Außerdem möchten wir uns bei allen Speakern aus 2010 bedanken. 
+Um auch im nächsten Jahr wieder spannende Vorträge rund um das Thema Flex und Flash zu hören, suchen wir Speaker. Themen könnten z.B. sein: Flex für Einsteiger oder Design Workflow z.B. mit Flash [...]]]></description>
+			<content:encoded><![CDATA[<p>Wir wünschen frohe Weihnachten und einen guten Rutsch in das Jahr 2011. </p>
+<p>Außerdem möchten wir uns bei allen Speakern aus 2010 bedanken. </p>
+<p>Um auch im nächsten Jahr wieder spannende Vorträge rund um das Thema Flex und Flash zu hören, suchen wir Speaker. Themen könnten z.B. sein: Flex für Einsteiger oder Design Workflow z.B. mit Flash Catalyst. Wer Interesse hat, kann sich gerne bei Thomas oder mir melden. </p>
+<p>Viele Grüße,<br />
+Thomas &#038; Sebastian </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/frohe-weihnachten-und-einen-guten-rutsch_766.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Flex UG München Special: Flex 4 für Android</title>
+		<link>http://www.fugmuc.de/flex-ug-munchen-special-flex-4-fur-android_761.html</link>
+		<comments>http://www.fugmuc.de/flex-ug-munchen-special-flex-4-fur-android_761.html#comments</comments>
+		<pubDate>Tue, 02 Nov 2010 19:52:58 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Flex]]></category>
+
+		<category><![CDATA[Flex UG München]]></category>
+
+		<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=761</guid>
+		<description><![CDATA[Adobe Meeting:
+Adobe Sr. Technical Evangelist Duane Nickull will showcase some new features of Flex 4 including development for Android devices. Come and learn the basic steps for creating an Adroid *.apk and installing and running it on an Android smart phone. Mr. Nickull will also discuss several issues facing developers when they begin porting their [...]]]></description>
+			<content:encoded><![CDATA[<p><b>Adobe Meeting:</b><br />
+Adobe Sr. Technical Evangelist Duane Nickull will showcase some new features of Flex 4 including development for Android devices. Come and learn the basic steps for creating an Adroid *.apk and installing and running it on an Android smart phone. Mr. Nickull will also discuss several issues facing developers when they begin porting their AIR application to the mobile spaces.</p>
+<p><b>Location:</b><br />
+Adobe Systems GmbH<br />
+Georg-Brauchle-Ring 58<br />
+80992 München<br />
+(neben dem O2 Gebäude – U1 nach Georg-Brauchle-Ring)</p>
+<p><b>Datum:</b><br />
+15.11.10, 18:30 Uhr</p>
+<p>Plätze sind ausreichend vorhanden, eine Anmeldung ist nicht nötig.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/flex-ug-munchen-special-flex-4-fur-android_761.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Flex UG Vortrag: IntelliJ IDEA für die Flex Entwicklung</title>
+		<link>http://www.fugmuc.de/flex-ug-vortrag-intellij-idea-fur-die-flex-entwicklung_753.html</link>
+		<comments>http://www.fugmuc.de/flex-ug-vortrag-intellij-idea-fur-die-flex-entwicklung_753.html#comments</comments>
+		<pubDate>Tue, 05 Oct 2010 10:28:19 +0000</pubDate>
+		<dc:creator>Thomas Reppa</dc:creator>
+		
+		<category><![CDATA[Allgemein]]></category>
+
+		<category><![CDATA[Flash Builder 4]]></category>
+
+		<category><![CDATA[Flex]]></category>
+
+		<category><![CDATA[Flex UG Treffen]]></category>
+
+		<category><![CDATA[Talks]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=753</guid>
+		<description><![CDATA[Frank Milde stellt in diesem Vortrag die Arbeitsweise mit ItelliJ IDEA vor. Es wird ein Vergleich zwischen den Features von Flash Builder 4 und IntelliJ IDEA aufgestellt. Dabei wird der Focus auf Refactoring, Codingcomfort und die Integration eines VCS liegen. Der Vortrag richtet sich an Flex-Entwickler die nach effizienteren Möglichkeiten suchen, ActionScript und Flex-Projekte zu [...]]]></description>
+			<content:encoded><![CDATA[<p>Frank Milde stellt in diesem Vortrag die Arbeitsweise mit ItelliJ IDEA vor. Es wird ein Vergleich zwischen den Features von Flash Builder 4 und IntelliJ IDEA aufgestellt. Dabei wird der Focus auf Refactoring, Codingcomfort und die Integration eines VCS liegen. Der Vortrag richtet sich an Flex-Entwickler die nach effizienteren Möglichkeiten suchen, ActionScript und Flex-Projekte zu entwickeln, als es die von Adobe angebotenen Lösungen ermöglichen.</p>
+<p>BIO: Frank Milde beschäftigt sich seit über 10 Jahren mit der Flashplattform. Zurzeit ist er bei der <a href="http://www.korion.de/">KORION Simulation Software GmbH</a> als Softwarearchitekt tätig.</p>
+<p>Veranstaltungstermin:<br />
+Dienstag, den 12.10.10 um 19:00 Uhr (Einlass 18:30 Uhr)</p>
+<p>Location:<br />
+reppa.net GmbH<br />
+Widenmayerstr. 46a<br />
+80538 München</p>
+<p>Die Teilnehmerzahl ist auf 25 Teilnehmer begrenzt!<br />
+Deswegen bitte in der XING Gruppe <a href="https://www.xing.com/events/intellij-idea-flex-entwicklung-575096">Adobe Flex User Group München anmelden</a> und den Termin bestätigen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/flex-ug-vortrag-intellij-idea-fur-die-flex-entwicklung_753.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>decoded conference: design code culture</title>
+		<link>http://www.fugmuc.de/decoded-conference-design-code-culture_735.html</link>
+		<comments>http://www.fugmuc.de/decoded-conference-design-code-culture_735.html#comments</comments>
+		<pubDate>Mon, 30 Aug 2010 12:50:19 +0000</pubDate>
+		<dc:creator>Thomas Reppa</dc:creator>
+		
+		<category><![CDATA[Allgemein]]></category>
+
+		<category><![CDATA[Konferenz]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=735</guid>
+		<description><![CDATA[
+Die decoded conference steht für eine Verbindung von Design und Code. Sie verknüpft gestalterische und technologische Aspekte des digitalen Lebens und führt diese in einem Event zusammen. Sprecher aus den Bereichen generative Gestaltung, Informationsvisualisierung, Gaming, interaktive Installationen bis hin zu Physical Computing geben tiefe Einblicke in ihre Arbeiten und deren Entstehungsgeschichten. Die decoded conference findet [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.decoded-conference.com"><img class="size-full wp-image-741" title="decoded confernce" src="http://www.fugmuc.de/wp-content/uploads/2010/08/banner_468x601.png" alt="decoded conference" width="468" height="60" /></a></p>
+<p>Die decoded conference steht für eine Verbindung von Design und Code. Sie verknüpft gestalterische und technologische Aspekte des digitalen Lebens und führt diese in einem Event zusammen. Sprecher aus den Bereichen generative Gestaltung, Informationsvisualisierung, Gaming, interaktive Installationen bis hin zu Physical Computing geben tiefe Einblicke in ihre Arbeiten und deren Entstehungsgeschichten. Die decoded conference findet am 23.Oktober in München statt.</p>
+<p>Mehr Infos unter <a href="http://www.decoded-conference.de">www.decoded-conference.de</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/decoded-conference-design-code-culture_735.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>FlexUG Meeting: Laufen lernen mit Robotlegs</title>
+		<link>http://www.fugmuc.de/flexug-meeting-laufen-lernen-mit-robotlegs_717.html</link>
+		<comments>http://www.fugmuc.de/flexug-meeting-laufen-lernen-mit-robotlegs_717.html#comments</comments>
+		<pubDate>Fri, 20 Aug 2010 13:08:37 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Flex]]></category>
+
+		<category><![CDATA[Flex UG München]]></category>
+
+		<category><![CDATA[Flex UG Treffen]]></category>
+
+		<category><![CDATA[Konferenz]]></category>
+
+		<category><![CDATA[Review]]></category>
+
+		<category><![CDATA[Talks]]></category>
+
+		<category><![CDATA[Workshops]]></category>
+
+		<category><![CDATA[MVC]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=717</guid>
+		<description><![CDATA[Thomas Reppa stellt in diesem Vortrag das Actionscript Framework Robotlegs anhand eines Beispiels vor.
+Dabei geht er insbesondere auf die Kommunkation der einzelnen MVC Schichten sowie auf die Verwendung von IoC / Dependency Injection innerhalb des Frameworks ein.
+Der Vortrag ist für fortgeschrittene Flash und Flex Entwickler geeignet, die den Einstieg in die framework-basierte Entwicklung suchen oder [...]]]></description>
+			<content:encoded><![CDATA[<p>Thomas Reppa stellt in diesem Vortrag das Actionscript <a href="http://www.robotlegs.org">Framework Robotlegs</a> anhand eines Beispiels vor.<br />
+Dabei geht er insbesondere auf die Kommunkation der einzelnen MVC Schichten sowie auf die Verwendung von IoC / Dependency Injection innerhalb des Frameworks ein.<br />
+Der Vortrag ist für fortgeschrittene Flash und Flex Entwickler geeignet, die den Einstieg in die framework-basierte Entwicklung suchen oder bereits mit einem anderen Framework gefunden haben.</p>
+<p><strong>BIO:</strong> Thomas Reppa ist seit über 10 Jahren als Entwickler, Berater und Trainer im RIA Bereich Tätig. Darüber hinaus schreibt er Artikel für Fachmagazine, spricht auf Konferenzen und ist Geschäftsführer der Agentur <a href="http://www.reppa.net">reppa.net GmbH</a>.</p>
+<p><strong>Veranstaltungstermin: </strong><br />
+Dienstag, den 14.09.10 um 19:00 Uhr (Einlass 18:30 Uhr)</p>
+<p><strong>Location:</strong><br />
+reppa.net GmbH<br />
+Widenmayerstr. 46a<br />
+80538 München</p>
+<p>Die Teilnehmerzahl ist auf 25 Teilnehmer begrenzt!<br />
+Deswegen bitte in der <a href="https://www.xing.com/net/flexugmuc/">XING Gruppe Adobe Flex User Group München anmelden</a> und den Termin bestätigen.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/flexug-meeting-laufen-lernen-mit-robotlegs_717.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Adobe AIR und Android Demo</title>
+		<link>http://www.fugmuc.de/adobe-air-und-android-demo_708.html</link>
+		<comments>http://www.fugmuc.de/adobe-air-und-android-demo_708.html#comments</comments>
+		<pubDate>Fri, 30 Jul 2010 10:27:30 +0000</pubDate>
+		<dc:creator>Thomas Reppa</dc:creator>
+		
+		<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=708</guid>
+		<description><![CDATA[Die Adobe Flex User Group Berlin veranstaltet am 04. August ein Meeting zum Thema Video P2P mit Adobe AIR für die Android Platform.
+Adobe Platform Evangelist Marc Doherty wird in der Connect Session eine Demo Anwendung präsentieren.   
+Infos und Anmeldung unter:
+http://www.flex-labs.de/blog/2010/07/flexlabs-connect-august-4th-p2p-video-android-demo/
+]]></description>
+			<content:encoded><![CDATA[<p>Die Adobe Flex User Group Berlin veranstaltet am 04. August ein Meeting zum Thema Video P2P mit Adobe AIR für die Android Platform.<br />
+Adobe Platform Evangelist <a href="http://www.flashmobileblog.com/">Marc Doherty</a> wird in der Connect Session eine Demo Anwendung präsentieren.   </p>
+<p>Infos und Anmeldung unter:<br />
+<a href="http://www.flex-labs.de/blog/2010/07/flexlabs-connect-august-4th-p2p-video-android-demo/">http://www.flex-labs.de/blog/2010/07/flexlabs-connect-august-4th-p2p-video-android-demo/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/adobe-air-und-android-demo_708.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Adobe Flex UG München verlost Adobe CS5 Web Premium</title>
+		<link>http://www.fugmuc.de/adobe-flex-ug-munchen-verlost-adobe-cs5-web-premium_701.html</link>
+		<comments>http://www.fugmuc.de/adobe-flex-ug-munchen-verlost-adobe-cs5-web-premium_701.html#comments</comments>
+		<pubDate>Wed, 07 Jul 2010 09:46:52 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Flex UG München]]></category>
+
+		<category><![CDATA[Adobe Creative Suite CS5]]></category>
+
+		<category><![CDATA[Gewinn]]></category>
+
+		<category><![CDATA[Gewinner]]></category>
+
+		<category><![CDATA[Gewinnspiel]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=701</guid>
+		<description><![CDATA[Wie bereits Anfang des Jahres angekündigt, haben wir unter den aktiven Mitgliedern der User Group ein Software Paket in der Höhe von 2.500 US$ verlost.
+Der Gewinner wurde letzte Woche anhand eines ausgeklügelten Verfahrens ermittelt:
+Die Adobe Flex User Group München gratuliert Alexander Gloning zum Gewinn einer Adobe CS5 Web Premium!
+Adobe stellt uns alle 6 Monate ein [...]]]></description>
+			<content:encoded><![CDATA[<p>Wie bereits Anfang des Jahres angekündigt, haben wir unter den aktiven Mitgliedern der User Group ein Software Paket in der Höhe von 2.500 US$ verlost.</p>
+<p>Der Gewinner wurde letzte Woche anhand eines ausgeklügelten Verfahrens ermittelt:<br />
+<strong>Die Adobe Flex User Group München gratuliert Alexander Gloning zum Gewinn einer Adobe CS5 Web Premium!</strong></p>
+<p>Adobe stellt uns alle 6 Monate ein Software Raffle zur Verfügung, welches wir unter den Mitgliedern verlosen. Die nächste Verlosung findet Ende des Jahres statt.<br />
+Vielen herzlichen Dank auch an Adobe für die Versorgung unserer Mitglieder mit Software.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/adobe-flex-ug-munchen-verlost-adobe-cs5-web-premium_701.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>RIA World eröffnet Call for Papers</title>
+		<link>http://www.fugmuc.de/ria-world-eroffnet-call-for-papers_697.html</link>
+		<comments>http://www.fugmuc.de/ria-world-eroffnet-call-for-papers_697.html#comments</comments>
+		<pubDate>Fri, 21 May 2010 10:50:41 +0000</pubDate>
+		<dc:creator>Sebastian Wichmann</dc:creator>
+		
+		<category><![CDATA[Allgemein]]></category>
+
+		<guid isPermaLink="false">http://www.fugmuc.de/?p=697</guid>
+		<description><![CDATA[Die RIA World findet vom 10. – 11. November 2010 im Holiday Inn Munich City Center in München statt. Die Web 2.0 Entwicklerkonferenz hat den Call for Papers eröffnet und freut sich auf zahlreiche Einreichungen zum Hauptthema „Rich Internet Applications“. Die Themen der RIA World 2010 sind:
+
+RIAs als Software as a Service (SaaS) / Vermarktung
+Mobile [...]]]></description>
+			<content:encoded><![CDATA[<p>Die RIA World findet vom 10. – 11. November 2010 im Holiday Inn Munich City Center in München statt. Die Web 2.0 Entwicklerkonferenz hat den Call for Papers eröffnet und freut sich auf zahlreiche Einreichungen zum Hauptthema „Rich Internet Applications“. Die Themen der RIA World 2010 sind:</p>
+<ul>
+<li>RIAs als Software as a Service (SaaS) / Vermarktung</li>
+<li>Mobile Medien und RIAs</li>
+<li>Interne Kommunikation mit RIAs</li>
+<li>Social Networks &#038; RIA (z.B. Facebook Apps)</li>
+<li>Game Design mit RIAs</li>
+<li>RIAs go mobile</li>
+<li>RIA in der Cloud</li>
+</ul>
+<p>Der Call for Papers ist bis zum 31. Mai geöffnet. Die Vorträge werden durch ein hochkarätiges Advisory Board gesichtet und evaluiert. Im Advisory Board der RIA World 2010 sitzen:</p>
+<p>-  Ilona Koglin, Redakteurin, WEAVE<br />
+-  Erik Franz, Chefredakteur, mac-developer und databasepro<br />
+-  Raju Bitter, Open Source und RIA Spezialist</p>
+<p>Den Call for Papers und ein Einreichungsformular gibt es unter <a href="http://www.riaworld.de/422.html" target="_blank">http://www.riaworld.de/422.html</a>. </p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fugmuc.de/ria-world-eroffnet-call-for-papers_697.html/feed</wfw:commentRss>
+		</item>
+	</channel>
+</rss>

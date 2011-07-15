@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark" title="HomeView" viewActivate="view1_viewActivateHandler(event)">
+	<fx:Script>
+		<![CDATA[
+			import mx.collections.IList;
+			import mx.collections.XMLListCollection;
+			import mx.rpc.events.ResultEvent;
+			
+			import spark.events.IndexChangeEvent;
+			import spark.events.ViewNavigatorEvent;
+			
+			protected function rssService_resultHandler(event:ResultEvent):void
+			{
+				rssList.dataProvider = new XMLListCollection(XMLList(event.result.channel.item));
+				// TODO Auto-generated method stub
+				
+			}
+			
+			protected function view1_viewActivateHandler(event:ViewNavigatorEvent):void
+			{
+				// TODO Auto-generated method stub
+				rssService.send();
+			}
+			
+			protected function rssList_changeHandler(event:IndexChangeEvent):void
+			{
+				// TODO Auto-generated method stub
+				navigator.pushView(DetailsView, rssList.selectedItem);
+			}
+			
+		]]>
+	</fx:Script>
+	<fx:Declarations>
+		<s:HTTPService id="rssService" resultFormat="e4x" result="rssService_resultHandler(event)" url="flexUGFeed.xml">
+			
+		</s:HTTPService>
+		<!-- Platzieren Sie nichtvisuelle Elemente (z. B. Dienste, Wertobjekte) hier -->
+	</fx:Declarations>
+	<s:List id="rssList" labelField="title" change="rssList_changeHandler(event)" >
+		
+	</s:List>
+	
+</s:View>

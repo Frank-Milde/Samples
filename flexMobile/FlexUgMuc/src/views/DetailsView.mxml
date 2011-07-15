@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark" title="DetialsView">
+	<s:layout>
+		<s:VerticalLayout horizontalAlign="center"/>
+	</s:layout>
+	<s:actionContent>
+		<s:Button label="back" click="button2_clickHandler(event)" />
+		
+	</s:actionContent>
+	<fx:Script>
+		<![CDATA[
+			import flash.net.navigateToURL;
+			
+			import spark.transitions.FlipViewTransition;
+			protected function button1_clickHandler(event:MouseEvent):void
+			{
+				// TODO Auto-generated method stub
+				navigateToURL(new URLRequest(data.link));
+				
+			}
+			
+			protected function button2_clickHandler(event:MouseEvent):void
+			{
+				// TODO Auto-generated method stub
+				navigator.popView(new FlipViewTransition());
+			}
+			
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<!-- Platzieren Sie nichtvisuelle Elemente (z. B. Dienste, Wertobjekte) hier -->
+	</fx:Declarations>
+	<s:Label text="{data.title}"/>
+	<s:TextArea width="100%" height="50%" text="{data.description}"/>		
+
+	<s:Button label="beitrag" click="button1_clickHandler(event)"	/>
+	
+	
+</s:View>
